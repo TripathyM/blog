@@ -1,14 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+title:              Manish Tripathy
+email:              manish.tripathy@outlook.com
+description:        Hi, I am Manish Tripathy. I am passionate about exploring and blogging tech.
+handle:             "@MTripathy"
+author:             Manish Tripathy
+baseurl:            "/blog"
+url:                ""
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   MTripathy91
+github_username:    TripathyM
+facebook_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
