@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:
+**Manish Tripathy** - I am a full stack software developer. Follow me at [@MTripathy91](https://twitter.com/mtripathy91) to receive updates about my new articles.

@@ -1,32 +1,32 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteTitle: "Manish Tripathy's Website", // <title>
+  shortSiteTitle: "Manish's blog", // <title> ending for posts and pages
+  siteDescription: "I'm a software developer and I love to explore and learn more.",
+  siteUrl: "http://mtripathy.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Manish Tripathy",
+  authorTwitterAccount: "MTripathy91",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "manish tripathy",
   infoTitleNote: "personal blog",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
+  manifestName: "Manish Tripathy - a software developer passionate about blogging",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "manish.tripathy@outlook.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "https://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/tripathym" },
+    { name: "twitter", url: "https://twitter.com/mtripathy91" },
+    { name: "facebook", url: "https://facebook.com/" }
   ]
 };
